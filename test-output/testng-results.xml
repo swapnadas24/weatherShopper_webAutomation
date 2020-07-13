@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WeatherShopper Test Automation suite" duration-ms="74747" started-at="2020-06-14T18:26:03Z" finished-at="2020-06-14T18:27:18Z">
+    <groups>
+    </groups>
+    <test name="WeatherShopper testcase" duration-ms="74747" started-at="2020-06-14T18:26:03Z" finished-at="2020-06-14T18:27:18Z">
+      <class name="com.web.weatherShopper.RunPaymentPage">
+        <test-method status="PASS" signature="lunch()[pri:0, instance:com.web.weatherShopper.RunPaymentPage@53b32d7]" name="lunch" is-config="true" duration-ms="6291" started-at="2020-06-14T18:26:03Z" finished-at="2020-06-14T18:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunch -->
+        <test-method status="PASS" signature="additemToPayment()[pri:0, instance:com.web.weatherShopper.RunPaymentPage@53b32d7]" name="additemToPayment" duration-ms="67303" started-at="2020-06-14T18:26:10Z" finished-at="2020-06-14T18:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additemToPayment -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.web.weatherShopper.RunPaymentPage@53b32d7]" name="quit" is-config="true" duration-ms="1012" started-at="2020-06-14T18:27:17Z" finished-at="2020-06-14T18:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.web.weatherShopper.RunPaymentPage -->
+    </test> <!-- WeatherShopper testcase -->
+  </suite> <!-- WeatherShopper Test Automation suite -->
+</testng-results>

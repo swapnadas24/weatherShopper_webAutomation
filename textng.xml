@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WeatherShopper Test Automation suite">
+
+	<listeners>
+		<listener class-name="com.web.extentReportList.WeatherExtentReport" />
+	</listeners>
+
+	<test name="WeatherShopper testcase">
+		<classes>
+			<class name="com.web.weatherShopper.RunPaymentPage"></class>
+		</classes>
+	</test>
+</suite>
